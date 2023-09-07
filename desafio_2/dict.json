@@ -1,0 +1,47 @@
+{"intents": [
+  {"tag": "bienvenida",
+    "patterns": ["Hola", "¿Cómo estás?", "¿Qué tal?", "buen día", "buenos días", "buenas tardes", "buenas noches","buenas"],
+    "responses": ["Hola, gracias por contactarse con SISTEMAS DE TRANSPORTE NEUMÁTICO SRL ¿En qué te podemos ayudar?"]
+  },
+  {"tag": "nombre",
+    "patterns": ["¿Cúal es tu nombre?", "¿Quién sos?", "¿cómo te llamas?", "¿sos humano?", "¿sos un bot?"],
+    "responses": ["Mi nombre es cartuchito, soy un bot que puede ayudarte en tus consultas sobre sistemas de correo neumático. ¿En qué te puedo ayudar?"]
+  },
+  {"tag": "definiciones",
+  "patterns": ["¿qué es un correo neumático?", "¿qué es un tubo neumático?", "¿qué venden?"],
+  "responses": ["El sistema de correo neumático (también llamado tubo neumático) se trata de un método de transporte de objetos que utiliza cartuchos especiales y una red de ductos que, por medio de vacío o presión, propulsa a los cartuchos hasta su destino transportándolos en forma eficiente, segura y a velocidades que, dependiendo la instalación y de los elementos a transportar, rondan los 10 metros por segundo, dependiendo principalmente, del material a transportar. Generalmente se transporta dinero, papeles, muestras médicas, medicamentos, radiografías y probetas entre otros elementos. No importa el peso, ni las distancias. Se instalan sin problema ya sea en obras como también en edificios existentes y en funcionamiento."]
+  },
+  {"tag": "service",
+    "patterns": ["necesito un técnico", "necesito un service", "mi sistema no funciona", "se trabo una cápsula", "se atasco un tubo", "se trabo un tubo", "necesitamos una reparación", "dejo de funcionar", "necesito una visita"],
+    "responses": ["ok, no se preocupe, si necesita un service por favor contactese a service@ingenieriasmith.com.ar o comuniquese al (+54) 11 4709 0271."]
+  },
+  {"tag": "contacto",
+    "patterns": ["contacto", "número de contacto", "número de teléfono", "número de whatsapp", "whatsapp", "como me contacto", "quiero hablar con una persona"],
+    "responses": ["Puede contactarnos llamando a (+54) 11 4709 0271 o por email a info@ingenieriasmith.com.ar"]
+  },
+  {"tag": "envios",
+    "patterns": ["¿Realizan envios?", "¿Cómo me llega el paquete?", "hacen envios?", "envian productos?"],
+    "responses": ["Normalmente hacemos envíos por Correo Argentino. Pero si Ud. lo solicita puede pedirnos que lo enviemos por la compañía de su preferencia"]
+  },
+  {"tag": "horarios",
+    "patterns": ["quiero saber los horarios de atención", "horarios", "a que hora abren", "hasta que hora trabajan", "cual es su horario de trabajo"],
+    "responses": ["Nuestro horario de atención es de 9 a 18 hs."]
+  },
+  {"tag": "precios",
+    "patterns": ["precio", "Me podrás pasar los precios", "¿Cuánto vale?", "¿Cuánto sale?", "necesito un presupuesto", "¿me pueden cotizar?", "como se cotiza?", "¿qué precios tienen?", "cual es el costo de una instalación?"],
+    "responses": ["Cada instalación es diferente, para poder cotizar necesitamos que por favor nos envie:  (1) Plano (o croquis con medidas) del local indicando la ubicación de la estación de envío y la de recepción ,(2) Material que quieren transportar, (3) CUIT y razón social, (4) Dirección del local. Con esa información preparamos una propuesta que se ajuste a sus necesidades."]
+  },
+  {"tag": "pagos",
+    "patterns": ["medios de pago", "tarjeta de crédito", "tarjetas", "cuotas", "como puedo pagar", "cuales son las formas de pago"],
+    "responses": ["Dependiendo que producto desea adquirir existen diferentes formas de pago. Le sugiero que envíe un email con su consulta a ventas@ingenieriasmith.com.ar."]
+  },
+  {"tag": "agradecimientos",
+    "patterns": [ "Muchas gracias", "Gracias"],
+    "responses": ["Por nada!, cualquier otra consulta podes escribirnos por este medio o contactarnos al (+54) 11 4709 0271."]
+  },
+  {"tag": "despedida",
+    "patterns": [ "Chau", "Hasta luego!", "adios", "chau", "bye"],
+    "responses": ["Adios, hasta luego!"]
+  }
+  ]
+}
