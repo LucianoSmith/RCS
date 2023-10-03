@@ -4,6 +4,8 @@ DESAFIO 1
 
 ![alt text](img/desafio1_img.jpg)
 
+![image description](img/desafio1_img.jpg)
+
 DESAFIO 2
 
 
