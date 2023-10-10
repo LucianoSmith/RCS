@@ -21,7 +21,7 @@ En el segundo ejercicio, se realizó un chatbot simple con respuestas preconfigu
 
 Ejemplos de respuestas obtenidas:
 
-<img src="img/chatbot1.jpg" width="70%" height="70%">
+<img src="img/chatbot1.jpg">
 
 <img src="img/chatbot2.jpg" width="70%" height="70%">
 
