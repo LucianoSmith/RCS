@@ -67,7 +67,5 @@ En el último desafío, se planteó la tarea de crear un bot de preguntas y resp
 
 <img src="img/desafio_6_img1.jpg">
 
-<img src="img/desafio_6_img2.jpg">
-
 <img src="img/desafio_6_img3.jpg">
 
