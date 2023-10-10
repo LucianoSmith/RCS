@@ -13,6 +13,7 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 **TF-IDF (Term Frequency-Inverse Document Frequency)**: Se construyó una matriz que utilizaba la técnica TF-IDF para representar los documentos. Esta técnica tiene en cuenta tanto la frecuencia de un término en un documento como su importancia en el corpus general.
 
 Además de estas representaciones de texto, se implementó una función para comparar documentos utilizando la similitud coseno. Esta función recibía el corpus y el índice de un documento y devolvía los documentos ordenados por su similitud coseno con respecto al documento de referencia. En resumen, el primer trabajo se centró en la obtención de representaciones de documentos y en la comparación de documentos utilizando medidas de similitud.
+[a link](https://github.com/LucianoSmith/RCS/blob/main/desafio_1/desafio_1.ipynb)
 
 # DESAFIO 2
 ![image description](img/desafio2_img.jpg)
