@@ -4,8 +4,13 @@ A continuación se muestran los trabajos realizados en la Materia "Programación
 
 
 **DESAFIO 1** 
-Vectorización de documentos. [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_1/desafio_1.ipynb)
-<img src="img/desafio1_img.jpg" width="200" height="200">
+
+<img src="img/desafio1_img.jpg" width="334" height="227">
+
+Vectorización de documentos. 
+
+[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_1/desafio_1.ipynb)
+
 En el primer trabajo, se llevaron a cabo varias tareas de introducción relacionadas con el procesamiento del lenguaje natural (NLP). En primer lugar, se realizó la obtención del vocabulario del corpus, que consistió en recopilar todos los términos utilizados en los documentos y crear un vector de términos no repetidos que abarcase todos los documentos. Luego, se implementaron diferentes técnicas de representación de texto, utilizando **One-Hot Encoding**, **Vectores de Frecuencia** y 
 **TF-IDF (Term Frequency-Inverse Document Frequency)**. Además de estas representaciones de texto, se implementó una función para comparar documentos utilizando la similitud coseno. Esta función recibía el corpus y el índice de un documento y devolvía los documentos ordenados por su similitud coseno con respecto al documento de referencia. 
 
