@@ -18,16 +18,20 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_2/2b%20-%20bot.ipynb)
 
 # DESAFIO 3
-![image description](img/desafio3_img.jpg)
+
+<img src="img/desafio3_img.jpg" width="30%" height="30%">
 
 
 # DESAFIO 4
-![image description](img/desafio3_img.jpg)
+
+<img src="img/desafio4_img.jpg" width="30%" height="30%">
 
 
 # DESAFIO 5
-![image description](img/desafio3_img.jpg)
+
+<img src="img/desafio5_img.jpg" width="30%" height="30%">
 
 
 # DESAFIO 6
-![image description](img/desafio3_img.jpg)
+
+<img src="img/desafio6_img.jpg" width="30%" height="30%">
