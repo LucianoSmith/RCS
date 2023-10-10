@@ -8,7 +8,7 @@ A continuación se muestran los trabajos realizados en la Materia "Programación
 
 [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_1/desafio_1.ipynb)
 
-En el primer trabajo, se llevaron a cabo varias tareas de introducción relacionadas con el procesamiento del lenguaje natural (NLP). En primer lugar, se realizó la obtención del vocabulario del corpus, que consistió en recopilar todos los términos utilizados en los documentos y crear un vector de términos no repetidos que abarcase todos los documentos. Luego, se implementaron diferentes técnicas de representación de texto, utilizando **One-Hot Encoding**, **Vectores de Frecuencia** y 
+En el primer desafío, se llevaron a cabo varias tareas de introducción relacionadas con el procesamiento del lenguaje natural (NLP). En primer lugar, se realizó la obtención del vocabulario del corpus, que consistió en recopilar todos los términos utilizados en los documentos y crear un vector de términos no repetidos que abarcase todos los documentos. Luego, se implementaron diferentes técnicas de representación de texto, utilizando **One-Hot Encoding**, **Vectores de Frecuencia** y 
 **TF-IDF (Term Frequency-Inverse Document Frequency)**. Además de estas representaciones de texto, se implementó una función para comparar documentos utilizando la similitud coseno. Esta función recibía el corpus y el índice de un documento y devolvía los documentos ordenados por su similitud coseno con respecto al documento de referencia. 
 
 # Desafío 2
@@ -17,7 +17,7 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 
 [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_2/2b%20-%20bot.ipynb)
 
-En el segundo ejercicio, se realizó un chatbot simple con respuestas preconfiguradas, aprovechando las  herramientas de PyTorch para la construcción de una red neuronal y Gradio para proporcionar una interfaz gráfica amigable. Se utilizó un dataset para el aprendizaje del algoritmo basado en las posibles respuestas a un cliente interesado en adquirir algún producto o servicio de una empresa proveedora de sistemas de correo neumático.
+En el segundo desafío, se realizó un chatbot simple con respuestas preconfiguradas, aprovechando las  herramientas de PyTorch para la construcción de una red neuronal y Gradio para proporcionar una interfaz gráfica amigable. Se utilizó un dataset para el aprendizaje del algoritmo basado en las posibles respuestas a un cliente interesado en adquirir algún producto o servicio de una empresa proveedora de sistemas de correo neumático.
 
 Ejemplos de respuestas obtenidas:
 
@@ -30,6 +30,10 @@ Ejemplos de respuestas obtenidas:
 # DESAFIO 3
 
 <img src="img/desafio3_img.jpg" width="25%" height="25%">
+
+[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_3/desafio_3.ipynb)
+
+En el tercer desafío, se crearon vectores de palabras utilizando Gensim, aprovechando los conceptos previamente aprendidos en clase. El dataset seleccionado consistió en los discursos más recientes del presidente. Durante el proceso, se exploraron términos de interés, se analizaron las similitudes en el espacio de embeddings y se plantearon pruebas de analogías. Además, se realizaron representaciones visuales de los embeddings resultantes las cuales se muestran a continuación.
 
 
 # DESAFIO 4
