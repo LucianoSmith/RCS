@@ -13,25 +13,25 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 
 # Desafío 2
 
-<img src="img/desafio2_img.jpg" width="30%" height="30%">
+<img src="img/desafio2_img.jpg" width="25%" height="25%">
 
 [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_2/2b%20-%20bot.ipynb)
 
 # DESAFIO 3
 
-<img src="img/desafio3_img.jpg" width="30%" height="30%">
+<img src="img/desafio3_img.jpg" width="25%" height="25%">
 
 
 # DESAFIO 4
 
-<img src="img/desafio4_img.jpg" width="30%" height="30%">
+<img src="img/desafio4_img.jpg" width="25%" height="25%">
 
 
 # DESAFIO 5
 
-<img src="img/desafio5_img.jpg" width="30%" height="30%">
+<img src="img/desafio5_img.jpg" width="25%" height="25%">
 
 
 # DESAFIO 6
 
-<img src="img/desafio6_img.jpg" width="30%" height="30%">
+<img src="img/desafio6_img.jpg" width="25%" height="25%">
