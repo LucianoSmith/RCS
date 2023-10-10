@@ -17,6 +17,8 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 
 [Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_2/2b%20-%20bot.ipynb)
 
+En el segundo ejercicio, se realizó un chatbot simple con respuestas preconfiguradas, aprovechando las  herramientas de PyTorch para la construcción de una red neuronal y Gradio para proporcionar una interfaz gráfica amigable. Se utilizó un dataset para el aprendizaje del algoritmo basado en las posibles respuestas a un cliente interesado en adquirir algún producto o servicio de una empresa proveedora de sistemas de correo neumático.
+
 # DESAFIO 3
 
 <img src="img/desafio3_img.jpg" width="25%" height="25%">
