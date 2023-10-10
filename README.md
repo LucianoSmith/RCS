@@ -60,3 +60,14 @@ En el quinto desafío, se aplicaron embeddings y redes neuronales recurrentes (L
 # DESAFIO 6
 
 <img src="img/desafio6_img.jpg" width="25%" height="25%">
+
+[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_6/desafio_6.ipynb)
+
+En el último desafío, se planteó la tarea de crear un bot de preguntas y respuestas (QA) utilizando una arquitectura de red neuronal NLP Encoder-Decoder. Para lograr esto, se emplearon las capacidades de LSTM (Long Short-Term Memory) y embeddings de Glove. El objetivo principal era construir un modelo que pudiera recibir preguntas en lenguaje natural y generar respuestas coherentes y significativas. Esta tarea demuestra cómo las técnicas de procesamiento de lenguaje natural, como las redes neuronales y los embeddings pre-entrenados, pueden aplicarse para crear sistemas de diálogo inteligentes y asistentes virtuales capaces de interactuar con usuarios de manera efectiva y contextual.
+
+<img src="img/desafio6_img1.jpg" width="25%" height="25%">
+
+<img src="img/desafio6_img2.jpg" width="25%" height="25%">
+
+<img src="img/desafio6_img3.jpg" width="25%" height="25%">
+
