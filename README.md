@@ -35,11 +35,9 @@ Ejemplos de respuestas obtenidas:
 
 En el tercer desafío, se crearon vectores de palabras utilizando Gensim, aprovechando los conceptos previamente aprendidos en clase. El dataset seleccionado consistió en los discursos más recientes del presidente. Durante el proceso, se exploraron términos de interés, se analizaron las similitudes en el espacio de embeddings y se plantearon pruebas de analogías. Además, se realizaron representaciones visuales de los embeddings resultantes las cuales se muestran a continuación.
 
-<img src="img/desafio3_img1.jpg" width="25%" height="25%">
+<img src="img/desafio3_img1.jpg">
 
-<img src="img/desafio3_img2.jpg" width="25%" height="25%">
-
-<img src="img/desafio3_img3.jpg" width="25%" height="25%">
+<img src="img/desafio3_img2.jpg">
 
 # DESAFIO 4
 
