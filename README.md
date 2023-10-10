@@ -10,7 +10,8 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 **TF-IDF (Term Frequency-Inverse Document Frequency)**. Además de estas representaciones de texto, se implementó una función para comparar documentos utilizando la similitud coseno. Esta función recibía el corpus y el índice de un documento y devolvía los documentos ordenados por su similitud coseno con respecto al documento de referencia. 
 
 # DESAFIO 2
-![image description](img/desafio2_img.jpg)
+<img src="img/desafio2_img.jpg" width="30%" height="30%">
+
 
 # DESAFIO 3
 ![image description](img/desafio3_img.jpg)
