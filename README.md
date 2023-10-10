@@ -23,9 +23,9 @@ Ejemplos de respuestas obtenidas:
 
 <img src="img/chatbot1.jpg">
 
-<img src="img/chatbot2.jpg" width="70%" height="70%">
+<img src="img/chatbot2.jpg">
 
-<img src="img/chatbot3.jpg" width="70%" height="70%">
+<img src="img/chatbot3.jpg">
 
 # DESAFIO 3
 
