@@ -45,6 +45,9 @@ En el tercer desafío, se crearon vectores de palabras utilizando Gensim, aprove
 
 <img src="img/desafio4_img.jpg" width="25%" height="25%">
 
+[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_4/desafio_4.ipynb)
+
+En el cuarto desafío, se continuó trabajando con el mismo dataset utilizado en el tercer desafío, y se implementaron estrategias de generación de secuencias many-to-one. Esto implicó la construcción de modelos que pudieran tomar una secuencia de palabras como entrada y generar una sola palabra o predicción como salida. Se exploraron arquitecturas, como las Redes Neuronales Bidireccionales (BRNN), para abordar esta tarea de generación de secuencias.
 
 # DESAFIO 5
 
