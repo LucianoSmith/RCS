@@ -51,7 +51,7 @@ En el cuarto desafío, se continuó trabajando con el mismo dataset utilizado en
 
 <img src="img/desafio5_img.jpg" width="25%" height="25%">
 
-[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_5/desafio_5.ipynb)
+[Link al notebook](https://github.com/LucianoSmith/RCS/blob/main/desafio_5/desafio_5-2.ipynb)
 
 En el quinto desafío, se aplicaron embeddings y redes neuronales recurrentes (LSTM) con el propósito de realizar análisis de sentimientos en críticas de compradores de ropa. Esta tarea involucró el procesamiento de texto y la construcción de un modelo de aprendizaje profundo capaz de clasificar automáticamente las críticas en tres categorías. El uso de embeddings permitió al modelo comprender mejor el contexto y las relaciones semánticas en el texto, mientras que las redes LSTM ayudaron a modelar las secuencias de palabras de manera efectiva. Este desafío representó un ejemplo valioso de cómo la inteligencia artificial puede ser aplicada en la evaluación automática de opiniones de los clientes en el ámbito de la moda y las compras.
 
