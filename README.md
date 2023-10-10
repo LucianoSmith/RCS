@@ -19,6 +19,14 @@ En el primer trabajo, se llevaron a cabo varias tareas de introducción relacion
 
 En el segundo ejercicio, se realizó un chatbot simple con respuestas preconfiguradas, aprovechando las  herramientas de PyTorch para la construcción de una red neuronal y Gradio para proporcionar una interfaz gráfica amigable. Se utilizó un dataset para el aprendizaje del algoritmo basado en las posibles respuestas a un cliente interesado en adquirir algún producto o servicio de una empresa proveedora de sistemas de correo neumático.
 
+Ejemplos de respuestas obtenidas:
+
+<img src="img/chatbot1.jpg" width="50%" height="50%">
+
+<img src="img/chatbot2.jpg" width="50%" height="50%">
+
+<img src="img/chatbot3.jpg" width="25%" height="25%">
+
 # DESAFIO 3
 
 <img src="img/desafio3_img.jpg" width="25%" height="25%">
